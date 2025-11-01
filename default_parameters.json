@@ -1,0 +1,29 @@
+{
+  "R_conv": 0.1,
+  "daily_xp_cap": 10000,
+  "weekly_xp_cap": 50000,
+  "invite_weekly_cap": 10,
+  "fan_pool_ratio": 0.4,
+  "creator_pool_ratio": 0.3,
+  "dao_pool_ratio": 0.2,
+  "platform_pool_ratio": 0.1,
+  "burn_rates": {
+    "watch": 0.005,
+    "share": 0.005,
+    "message": 0.01,
+    "upload": 0.02,
+    "create": 0.03,
+    "sponsor": 0.05,
+    "cashout": 0.05
+  },
+  "cashout_limits": {
+    "daily": 100,
+    "weekly": 500,
+    "monthly": 2000,
+    "premium_monthly": 5000,
+    "requires_ccs": 80
+  },
+  "supply_start": 1000000000,
+  "nev_start": 100000,
+  "users_active_start": 100000
+}
